@@ -1,5 +1,7 @@
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -36,3 +38,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Your CSS file or inline styles */
+.ratio-container {
+  position: relative;
+  width: 100%;
+  padding-top: 100%; /* Adjust the percentage based on your desired aspect ratio */
+  overflow: hidden;
+}
+
+.ratio-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: container; /* Ensure the image covers the container */
+}
+.logo-top{
+  width: 5vh;
+  transform: rotate(-40deg);
+}
+.nav-font-brand{
+  font-family: sans-serif;
+  
+}
+
