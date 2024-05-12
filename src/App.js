@@ -14,7 +14,7 @@ function App() {
         <Nav/>
         <div className='p-5'></div>
         <Routes>
-          <Route path='/' element={<Shop/>}/>
+          <Route path='/online-shop' element={<Shop/>}/>
           <Route path='/cart' element={<Cart/>}/>
         </Routes>
       </Router>
