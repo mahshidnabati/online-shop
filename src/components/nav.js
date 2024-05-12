@@ -42,12 +42,12 @@ const Nav = () => {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/" className="nav-link">
+                            <Link to="/online-shop" className="nav-link">
                                 Categories
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/cart" className="nav-link">
+                            <Link to="/online-shop/cart" className="nav-link">
                                 <FontAwesomeIcon icon={faShoppingCart} />
                                 {itemCount>0 && <span className="mx-1 badge text-bg-danger p-1">{itemCount}</span>}
                             </Link>

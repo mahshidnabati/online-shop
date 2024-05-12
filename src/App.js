@@ -15,7 +15,7 @@ function App() {
         <div className='p-5'></div>
         <Routes>
           <Route path='/online-shop' element={<Shop/>}/>
-          <Route path='/cart' element={<Cart/>}/>
+          <Route path='/online-shop/cart' element={<Cart/>}/>
         </Routes>
       </Router>
       </ShopContextProvider>
