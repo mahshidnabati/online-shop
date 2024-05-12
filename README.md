@@ -1,4 +1,3 @@
-Online shop is a react app project that it can fetch products from API and adding them to the cart. <br>
-I used local storage for selecting products on the cart.
+MoonlitWitch Shop is an online shop sample which is created by react. Its features are fetching data from API, Adding products to the cart using local storage technology.
 
 <a href="https://mahshidnabati.github.io/online-shop/">Preview</a>
