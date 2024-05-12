@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/online-shop/static/css/main.81219ae1.css",
-    "main.js": "/online-shop/static/js/main.d2e9e561.js",
+    "main.js": "/online-shop/static/js/main.6918f63f.js",
     "static/media/witch-icon.png": "/online-shop/static/media/witch-icon.b076d5fca6dc6c10ac8b.png",
     "index.html": "/online-shop/index.html",
     "main.81219ae1.css.map": "/online-shop/static/css/main.81219ae1.css.map",
-    "main.d2e9e561.js.map": "/online-shop/static/js/main.d2e9e561.js.map"
+    "main.6918f63f.js.map": "/online-shop/static/js/main.6918f63f.js.map"
   },
   "entrypoints": [
     "static/css/main.81219ae1.css",
-    "static/js/main.d2e9e561.js"
+    "static/js/main.6918f63f.js"
   ]
 }
